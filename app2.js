@@ -33,8 +33,8 @@
 // let a = 5;
 // let b = "5";
 
-// console.log(a == b); // checks only value
-// console.log(a === b); // checks value and datatype
+// console.log(a == b); // checks only value   known as equal check
+// console.log(a === b); // checks value and datatype known as strict check
 // console.log(a != b);
 // console.log(a !== b);
 // console.log(a > b);
